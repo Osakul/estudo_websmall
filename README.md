@@ -5,4 +5,4 @@ Aqui você encontra diversos programas, projetos, algoritmos para afins de estud
 
 ## site na resenha light.
 
-<a href="pag_draft.html">clique aqui !</a>
+<a href="index.html">clique aqui !</a>
