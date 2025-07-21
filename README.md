@@ -1,2 +1,3 @@
 # estudo_internauta
-estudos referentes à programação.
+
+Aqui você encontra diversos programas, projetos, algoritmos para afins de estudo.
